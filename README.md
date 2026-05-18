@@ -1,0 +1,2 @@
+# -Distributed-Rate-Limiting-Control-Plane-for-Scalable-API-Systems
+Cloud-native distributed system to enforce API rate limits across services/tenants. Supports real-time request tracking, dynamic policies, fault tolerance, and horizontal scaling. Tech: React.js, Node.js, Express, TypeScript, Redis, MongoDB, AWS (EC2, ALB, API Gateway), Docker, Kubernetes, Jenkins, Sentry, Prometheus, Grafana, JWT/API Keys, AWS IAM
